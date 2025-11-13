@@ -106,7 +106,9 @@
 
 ## 🧩 Контакты
 
-📫 **Email:** [vladimir.repp@example.com](mailto:vladimir.repp@example.com)
+📫 **Email:** [vladimir_repp97@mail.ru](mailto:vladimir_repp97@mail.ru)
+🚩 **Telegram:** [@Vladimir_Repp](mailto:https://web.telegram.org/Vladimir_Repp)
+🛰 **Phone:** +7(999)-440-27-51
 🌐 **GitHub:** [VladimirRepp](https://github.com/VladimirRepp)
 
 ---
