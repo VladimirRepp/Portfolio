@@ -1,68 +1,88 @@
-# Portfolio---Software
-Links: 
-.Net C#":
-- https://github.com/VladimirRepp/CS---Async-Parallel-Advanced
-- https://github.com/VladimirRepp/CS---Logger
-- https://github.com/VladimirRepp/TicTacToeGameCppWinForms-
+# Software Engineering Portfolio
 
-Unity:
-- https://github.com/VladimirRepp/Unity---Singleton
-- https://github.com/VladimirRepp/Unity---Utils
-- https://github.com/VladimirRepp/Unity---ATT_iOS_YandexMobileAds
-- https://github.com/VladimirRepp/Unity---MySceneManager
-- https://github.com/VladimirRepp/Camera-Movement-And-Zooming-in-Unity-via-touchscreen
-- https://github.com/VladimirRepp/UnitySimpleFPS
+Привет! Меня зовут Владимир, я Full-Stack разработчик с 7-летним опытом. Специализируюсь на создании комплексных решений полного цикла - от видеоигр до enterprise-приложений.
 
-Games (prototype and others):
-- https://github.com/VladimirRepp/Space-Researcher-Game
-- https://github.com/VladimirRepp/SpaceAdventure
-- https://github.com/VladimirRepp/WordGame
-- https://github.com/VladimirRepp/SpaceShmup
-- https://github.com/VladimirRepp/ProspectorSolitaire
-- https://github.com/VladimirRepp/SwapAttack
-- https://github.com/VladimirRepp/MissionDemolition
-- https://github.com/VladimirRepp/DungeonDelver
-- https://github.com/VladimirRepp/Blackjack
-- https://github.com/VladimirRepp/Bartok
-- https://github.com/VladimirRepp/FireBall3D
-- https://github.com/VladimirRepp/UnitySimpleGameMemoryCards
+## 🚀 Технологии и навыки
 
-ASP.Net:
-- https://github.com/VladimirRepp/ASP.Net-Core---HelloMVC
-- https://github.com/VladimirRepp/ASP.Net-Core---HelloRazerPage
-- https://github.com/VladimirRepp/ASP.Net-Core---SimpleWepAPI
+*   **Языки:** C#, .NET, C++, JavaScript, SQL
+*   **Game Dev:** Unity3D, Mobile Games, Game Architecture
+*   **Backend:** ASP.NET Core, Web API, Entity Framework, Dapper
+*   **Frontend:** WinForms, Razor Pages, MVC
+*   **Базы данных:** MySQL, ADO.NET, ORM
+*   **Системное программирование:** Multithreading, Async, Processes
 
-EF & ORM:
-- https://github.com/VladimirRepp/EF---ExampleOfEntityFramework
-- https://github.com/VladimirRepp/CS---DbBaseORM
+## 📁 Проекты
 
-Telegram chat bot:
-- https://github.com/VladimirRepp/CS---TelegramChatBot
+### 🎮 Unity & Game Development
 
-Utils Cpp:
-- https://github.com/VladimirRepp/Utilities
-- https://github.com/VladimirRepp/WinFormsChart
-- https://github.com/VladimirRepp/WinFormCppAndAccess
-- https://github.com/VladimirRepp/PaintInWinFormsCPlusPlus
-- https://github.com/VladimirRepp/SnakeGameOnWindowsFormsCpp
-- https://github.com/VladimirRepp/TicTacToeGameCppWinForms-
+| Проект | Описание |
+| :--- | :--- |
+| [Unity Singleton](https://github.com/VladimirRepp/Unity---Singleton) | Паттерн Singleton для Unity |
+| [Unity Utils](https://github.com/VladimirRepp/Unity---Utils) | Коллекция полезных утилит |
+| [iOS Ads Integration](https://github.com/VladimirRepp/Unity---ATT_iOS_YandexMobileAds) | Интеграция рекламы для iOS |
+| [Scene Manager](https://github.com/VladimirRepp/Unity---MySceneManager) | Система управления сценами |
+| [Camera Movement](https://github.com/VladimirRepp/Camera-Movement-And-Zooming-in-Unity-via-touchscreen) | Управление камерой через тачскрин |
+| [Simple FPS](https://github.com/VladimirRepp/UnitySimpleFPS) | Шутер от первого лица |
 
-Materials for training:
-- https://github.com/VladimirRepp/ASP.Net_Core---Base
-- https://github.com/VladimirRepp/CS---Async-Parallel-Advanced
-- https://github.com/VladimirRepp/CS---Multithreading
-- https://github.com/VladimirRepp/CS---CreateProcess
-- https://github.com/VladimirRepp/CS---ChildeProcesses
-- https://github.com/VladimirRepp/CS---AssemblyAndModule
-- https://github.com/VladimirRepp/CS---RunTwoAppUsingAppDoman
-- https://github.com/VladimirRepp/CS---AppDomain
-- https://github.com/VladimirRepp/CS---PoolThreads
-- https://github.com/VladimirRepp/CS---SynchronizationMethodsUsingThread
-- https://github.com/VladimirRepp/CS---UpdChat
-- https://github.com/VladimirRepp/CS---TcpChat
-- https://github.com/VladimirRepp/ASP.Net-Core---HelloMVC
-- https://github.com/VladimirRepp/ASP.Net-Core---HelloRazerPage
-- https://github.com/VladimirRepp/CS---MySQL
-- https://github.com/VladimirRepp/EFandDapper---ExampleOfEntityFrameworkAndDapper
-- https://github.com/VladimirRepp/ADO.Net---ExamplesOfProviderFactoryTransactionsAndAsynchronousMethods
-- https://github.com/VladimirRepp/ADO.Net---ExamplesOfDisconnectedAndAttachedMode
+### 🎯 Игровые проекты
+
+**Полноценные игры:**
+- [Space Researcher](https://github.com/VladimirRepp/Space-Researcher-Game)
+- [Space Adventure](https://github.com/VladimirRepp/SpaceAdventure)
+- [Word Game](https://github.com/VladimirRepp/WordGame)
+- [Space Shmup](https://github.com/VladimirRepp/SpaceShmup)
+- [Prospector Solitaire](https://github.com/VladimirRepp/ProspectorSolitaire)
+
+**Игровые механики и прототипы:**
+- [Swap Attack](https://github.com/VladimirRepp/SwapAttack)
+- [Mission Demolition](https://github.com/VladimirRepp/MissionDemolition)
+- [Dungeon Delver](https://github.com/VladimirRepp/DungeonDelver)
+- [Blackjack](https://github.com/VladimirRepp/Blackjack)
+- [Bartok](https://github.com/VladimirRepp/Bartok)
+- [FireBall 3D](https://github.com/VladimirRepp/FireBall3D)
+- [Memory Cards](https://github.com/VladimirRepp/UnitySimpleGameMemoryCards)
+
+### 💻 .NET & Backend
+
+**ASP.NET Core:**
+- [Hello MVC](https://github.com/VladimirRepp/ASP.Net-Core---HelloMVC)
+- [Razor Pages](https://github.com/VladimirRepp/ASP.Net-Core---HelloRazerPage)
+- [Web API](https://github.com/VladimirRepp/ASP.Net-Core---SimpleWepAPI)
+
+**Базы данных & ORM:**
+- [Entity Framework](https://github.com/VladimirRepp/EF---ExampleOfEntityFramework)
+- [Custom ORM](https://github.com/VladimirRepp/CS---DbBaseORM)
+- [EF & Dapper](https://github.com/VladimirRepp/EFandDapper---ExampleOfEntityFrameworkAndDapper)
+- [ADO.NET](https://github.com/VladimirRepp/ADO.Net---ExamplesOfProviderFactoryTransactionsAndAsynchronousMethods)
+
+**Утилиты:**
+- [Async Programming](https://github.com/VladimirRepp/CS---Async-Parallel-Advanced)
+- [Logger](https://github.com/VladimirRepp/CS---Logger)
+- [Telegram Bot](https://github.com/VladimirRepp/CS---TelegramChatBot)
+
+### 🖥️ Desktop & C++
+
+- [Utilities](https://github.com/VladimirRepp/Utilities)
+- [WinForms Chart](https://github.com/VladimirRepp/WinFormsChart)
+- [Database App](https://github.com/VladimirRepp/WinFormCppAndAccess)
+- [Paint App](https://github.com/VladimirRepp/PaintInWinFormsCPlusPlus)
+- [Snake Game](https://github.com/VladimirRepp/SnakeGameOnWindowsFormsCpp)
+- [Tic-Tac-Toe](https://github.com/VladimirRepp/TicTacToeGameCppWinForms-)
+
+### 📚 Образовательные проекты
+
+*Серия учебных материалов по:*
+- Multithreading & Synchronization
+- Processes & AppDomains
+- ASP.NET Core Fundamentals
+- Database Access Patterns
+- Network Programming (TCP/UDP)
+
+## 📫 Контакты
+
+*   **GitHub:** [github.com/VladimirRepp](https://github.com/VladimirRepp)
+*   **Email:** [укажите ваш email]
+*   **Telegram:** [укажите ваш Telegram]
+
+---
+> 💡 *Полный список всех моих проектов доступен на [GitHub профиле](https://github.com/VladimirRepp). Готов обсуждать конкретные задачи и требования!*
