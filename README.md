@@ -17,7 +17,6 @@
 
 * [Async & Parallel Advanced](https://github.com/VladimirRepp/CS---Async-Parallel-Advanced)
 * [Logger Utility](https://github.com/VladimirRepp/CS---Logger)
-* [TicTacToe Game (WinForms C++)](https://github.com/VladimirRepp/TicTacToeGameCppWinForms-)
 
 ---
 
