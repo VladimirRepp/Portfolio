@@ -110,6 +110,7 @@
 🚩 **Telegram:** @Vladimir_Repp <br/>
 🛰 **Phone:** +7(999)-440-27-51 <br/>
 🌐 **GitHub:** [VladimirRepp](https://github.com/VladimirRepp) <br/>
+🃏 **Visit Card:** [vladimir-repp.ru](https://vladimir-repp.ru) <br/>
 
 ---
 > 💡 Больше примеров можно найти здесь: https://github.com/VladimirRepp
