@@ -89,7 +89,7 @@
 ## 🧠 .NET / C\#
 
 * [Logger Utility](https://github.com/VladimirRepp/CS---Logger)
-* MORE in *Materials for Training*
+* MORE in *📘 Materials for Training*
 
 ---
 
