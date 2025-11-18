@@ -13,10 +13,27 @@
 *   **Базы данных:** MySQL, ADO.NET, ORM
 *   **Системное программирование:** Multithreading, Async, Processes
 
-## 🧠 .NET / C\#
+## 📘 Materials for Training
 
+* [ASP.NET Core – Base](https://github.com/VladimirRepp/ASP.Net_Core---Base)
 * [Async & Parallel Advanced](https://github.com/VladimirRepp/CS---Async-Parallel-Advanced)
-* [Logger Utility](https://github.com/VladimirRepp/CS---Logger)
+* [Web programming on .Net](https://github.com/VladimirRepp/CS---Network-Programming-Guide)
+* [Multithreading](https://github.com/VladimirRepp/CS---Multithreading)
+* [Create Process](https://github.com/VladimirRepp/CS---CreateProcess)
+* [Child Processes](https://github.com/VladimirRepp/CS---ChildeProcesses)
+* [Assembly & Module](https://github.com/VladimirRepp/CS---AssemblyAndModule)
+* [Run Two Apps Using AppDomain](https://github.com/VladimirRepp/CS---RunTwoAppUsingAppDoman)
+* [AppDomain](https://github.com/VladimirRepp/CS---AppDomain)
+* [Thread Pool Examples](https://github.com/VladimirRepp/CS---PoolThreads)
+* [Synchronization Methods (Thread)](https://github.com/VladimirRepp/CS---SynchronizationMethodsUsingThread)
+* [UDP Chat](https://github.com/VladimirRepp/CS---UpdChat)
+* [TCP Chat](https://github.com/VladimirRepp/CS---TcpChat)
+* [ASP.NET Core – Hello MVC](https://github.com/VladimirRepp/ASP.Net-Core---HelloMVC)
+* [ASP.NET Core – Hello Razor Page](https://github.com/VladimirRepp/ASP.Net-Core---HelloRazerPage)
+* [MySQL](https://github.com/VladimirRepp/CS---MySQL)
+* [EF & Dapper Examples](https://github.com/VladimirRepp/EFandDapper---ExampleOfEntityFrameworkAndDapper)
+* [ADO.NET – ProviderFactory, Transactions, Async](https://github.com/VladimirRepp/ADO.Net---ExamplesOfProviderFactoryTransactionsAndAsynchronousMethods)
+* [ADO.NET – Disconnected & Attached Mode](https://github.com/VladimirRepp/ADO.Net---ExamplesOfDisconnectedAndAttachedMode)
 
 ---
 
@@ -69,6 +86,13 @@
 
 ---
 
+## 🧠 .NET / C\#
+
+* [Logger Utility](https://github.com/VladimirRepp/CS---Logger)
+* MORE in *Materials for Training*
+
+---
+
 ## ⚙️ C++ / WinForms Utilities
 
 * [Utilities Collection](https://github.com/VladimirRepp/Utilities)
@@ -77,29 +101,6 @@
 * [Paint in WinForms C++](https://github.com/VladimirRepp/PaintInWinFormsCPlusPlus)
 * [Snake Game (WinForms)](https://github.com/VladimirRepp/SnakeGameOnWindowsFormsCpp)
 * [TicTacToe (C++ WinForms)](https://github.com/VladimirRepp/TicTacToeGameCppWinForms-)
-
----
-
-## 📘 Materials for Training
-
-* [ASP.NET Core – Base](https://github.com/VladimirRepp/ASP.Net_Core---Base)
-* [Async & Parallel Advanced](https://github.com/VladimirRepp/CS---Async-Parallel-Advanced)
-* [Multithreading](https://github.com/VladimirRepp/CS---Multithreading)
-* [Create Process](https://github.com/VladimirRepp/CS---CreateProcess)
-* [Child Processes](https://github.com/VladimirRepp/CS---ChildeProcesses)
-* [Assembly & Module](https://github.com/VladimirRepp/CS---AssemblyAndModule)
-* [Run Two Apps Using AppDomain](https://github.com/VladimirRepp/CS---RunTwoAppUsingAppDoman)
-* [AppDomain](https://github.com/VladimirRepp/CS---AppDomain)
-* [Thread Pool Examples](https://github.com/VladimirRepp/CS---PoolThreads)
-* [Synchronization Methods (Thread)](https://github.com/VladimirRepp/CS---SynchronizationMethodsUsingThread)
-* [UDP Chat](https://github.com/VladimirRepp/CS---UpdChat)
-* [TCP Chat](https://github.com/VladimirRepp/CS---TcpChat)
-* [ASP.NET Core – Hello MVC](https://github.com/VladimirRepp/ASP.Net-Core---HelloMVC)
-* [ASP.NET Core – Hello Razor Page](https://github.com/VladimirRepp/ASP.Net-Core---HelloRazerPage)
-* [MySQL](https://github.com/VladimirRepp/CS---MySQL)
-* [EF & Dapper Examples](https://github.com/VladimirRepp/EFandDapper---ExampleOfEntityFrameworkAndDapper)
-* [ADO.NET – ProviderFactory, Transactions, Async](https://github.com/VladimirRepp/ADO.Net---ExamplesOfProviderFactoryTransactionsAndAsynchronousMethods)
-* [ADO.NET – Disconnected & Attached Mode](https://github.com/VladimirRepp/ADO.Net---ExamplesOfDisconnectedAndAttachedMode)
 
 ---
 
