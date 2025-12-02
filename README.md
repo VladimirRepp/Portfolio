@@ -48,7 +48,7 @@
 
 ---
 
-## 🕹️ Game Projects (Prototypes & Demos)
+## 🕹️ Game Projects (Prototypes & Demos For Students)
 
 * [Space Researcher](https://github.com/VladimirRepp/Space-Researcher-Game)
 * [Space Adventure](https://github.com/VladimirRepp/SpaceAdventure)
