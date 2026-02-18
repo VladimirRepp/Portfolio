@@ -50,7 +50,7 @@
 
 ## 🕹️ Game Projects (Prototypes & Demos For Students)
 
-* [Third Person Shooter - base](https://github.com/VladimirRepp/Unity---ThirdPersonShooterTutorial)
+* [Third Person Shooter - base](https://github.com/VladimirRepp/Unity---ThirdPersonShooter-Tutorial)
 * [2D Platformer - base](https://github.com/VladimirRepp/Unity---2DPlatformerTutorial)
 * [2D TopDown Platformer](https://github.com/VladimirRepp/Unity---2DTopDownPlatformerTutorial)
 * [2D TopDown Platformer Online PvP](https://github.com/VladimirRepp/Unity---2DTopDownPlatformer-OnlinePvP-Tutorial)
