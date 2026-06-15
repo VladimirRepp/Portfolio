@@ -15,6 +15,9 @@
 
 ## 📘 Materials for Training
 
+* [C#/.Net samples for Training](https://github.com/VladimirRepp/CS---Quest-Learn)
+* [WinForm C#/.Net samples for Training](https://github.com/VladimirRepp/WinForms---Samples)
+* [WPF C#/.Net samples for Training](https://github.com/VladimirRepp/WPF---Samples)
 * [Async & Parallel Advanced (.Net)](https://github.com/VladimirRepp/CS---Async-Parallel-Advanced)
 * [Web programming on .Net](https://github.com/VladimirRepp/CS---Network-Programming-Guide)
 * [Multithreading (.Net)](https://github.com/VladimirRepp/CS---Multithreading)
